@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://lab02.netlify.app">Demo</a> -->
+  <a href="https://ignitelab-git-main-juniorvilas.vercel.app/">Demo</a>
 </div>
 
 <h1 align="center">Ignite lab - v2</h1>
@@ -27,7 +27,7 @@
 Status
 
 <h4 align="center">
-	🚧  Lab 02 🚀 Under construction...  🚧
+	Lab 02 🚀 FINISHED 🚀
 </h4>
 
 <hr>
