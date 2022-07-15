@@ -96,10 +96,10 @@ $ git clone https://github.com/juniorvilas/Ignitelab.git
 $ cd Ignitelab
 
 # Instale as dependências
-$ yarn
+$ npm i
 
 # Execute o projeto
-$ yarn start
+$ npm run dev
 
 # O projeto será inicializado em <http://localhost:3000>
 ```
